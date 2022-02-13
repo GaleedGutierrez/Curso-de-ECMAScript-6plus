@@ -1,0 +1,19 @@
+{
+  "name": "curso-de-ecmascript-6plus",
+  "version": "1.0.0",
+  "description": "Entendiendo ECMAScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus.git"
+  },
+  "author": "Galeed Gutierrez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus/issues"
+  },
+  "homepage": "https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus#readme"
+}
