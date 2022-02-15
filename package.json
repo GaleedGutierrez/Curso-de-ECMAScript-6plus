@@ -15,5 +15,6 @@
   "bugs": {
     "url": "https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus/issues"
   },
-  "homepage": "https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus#readme"
+  "homepage": "https://github.com/GaleedGutierrez/Curso-de-ECMAScript-6plus#readme",
+  "type": "module"
 }
